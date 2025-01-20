@@ -5,10 +5,9 @@
 
 ### Конфигурация Git
 
-   - Уровни конфигурации: локальный, глобальный и системный
-   
+- Уровни конфигурации: локальный, глобальный и системный 
    ![Уровни конфигурации](https://github.com/lbmergenova/front_Hotels.ru/blob/main/config_level.png)
-   - Команды для конфигурации Git.
+- Команды для конфигурации Git.
 ``` bash
 git config user.name "Laura"
 git config user.email "example@gmail.com"
@@ -20,17 +19,17 @@ git config --unset user.name
 git config --unset user.email
 git config --remove-section user
 ```
-   - Настройка редактора
+- Настройка редактора
 ``` bash
 git config --global core.editor "code --wait"`
 ```
-   - Алиасы для работы с Git в консоли
+- Алиасы для работы с Git в консоли
 ``` bash
 git config alias.sayhi '!echo "hello"; echo "from git"'
 git config alias.a '!git ...; git ...'
 git config alias.commitall '!git add .; git commit'
 ```
-   - Просмотр документации из консоли
+- Просмотр документации из консоли
 ``` bash
 git config -h
 git help config
