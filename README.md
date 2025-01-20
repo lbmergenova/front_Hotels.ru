@@ -4,8 +4,9 @@
 
 
 - ### Конфигурация
-   - Уровни конфигурации: локальный, глобальный и системный.
-   ![Уровни конфигурации](https://www.example.com/image.jpg)
+   - Уровни конфигурации: локальный, глобальный и системный
+   
+   ![Уровни конфигурации](https://github.com/lbmergenova/front_Hotels.ru/blob/main/config_level.png)
    - Команды для конфигурации Git.
 ``` bash
 git config user.name "Laura"
@@ -60,7 +61,8 @@ git help config
 
 ### Полезные ссылки
 
-[Git: курс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
+***Курс по git:***  
+<https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb>
 
 [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#some-title-1)
 
