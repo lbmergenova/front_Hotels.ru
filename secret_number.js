@@ -1,7 +1,6 @@
 let min = 1;
 let max = 100;
 
-
 function getRandomArbitrary(min, max) {
     return Math.floor(Math.random() * (max - min) + min);
 }
